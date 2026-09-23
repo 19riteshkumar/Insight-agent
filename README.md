@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-- **URL**: `https://<YOUR-GITHUB-USERNAME>.github.io/<REPO-NAME>/`
+- **URL**: '19riteshkumar.github.io/Insight-agent/'
 - **Zero-Setup Testing**: Pre-configured with deterministic datasets (Global E-Commerce Sales & SaaS Customer Churn) so you can test features instantly without uploading files.
 
 ---
@@ -34,9 +34,3 @@
 
 ---
 
-## 💻 Local Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)<YOUR-GITHUB-USERNAME>/<REPO-NAME>.git
-   cd <REPO-NAME>
